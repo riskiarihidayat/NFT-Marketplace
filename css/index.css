@@ -1,0 +1,12 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Libre Franklin', sans-serif; */
+:root {
+  --fontInter: 'Inter', sans-serif;
+  --fontLibre: 'Libre Franklin', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
